@@ -14,8 +14,7 @@ body{
     padding: auto;
     margin: auto;
     width: 1280px;
-    : none;
-}
+    }
 .navbar {
     display: flex;
     width: 1280px;
